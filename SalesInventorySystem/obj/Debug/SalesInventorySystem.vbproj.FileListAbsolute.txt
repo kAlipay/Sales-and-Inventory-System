@@ -1,0 +1,113 @@
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+C:\Users\rOm2x\AppData\Local\Temporary Projects\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\ResolveAssemblyReference.cache
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadStaff.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmStaff.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmItem.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmSoldItems.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItems.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItemsPrint.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksIn.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksInPrint.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+E:\MYFILES\romnick\RDA School Thesis\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmUsers.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\ResolveAssemblyReference.cache
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmItem.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadStaff.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItems.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportSoldItemsPrint.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksIn.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmReportStocksInPrint.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmSoldItems.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmStaff.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmUsers.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+E:\MYFILES\romnick\SYSTEMS\11Nitay\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+D:\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+D:\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+D:\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmCustomer.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLogin.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmMain.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Form3.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmProduct.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmtype.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmuser.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+D:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+F:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+F:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+F:\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe.config
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.exe
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.xml
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.pdb
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.exe
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.pdb
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\bin\Debug\SalesInventorySystem.xml
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Form3.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmAvailableStocks.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmcustomer.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadCustomer.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmLoadItem.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmlogin.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmmain.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPayment.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPOS.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintAvailableStocks.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmPrintReceipt.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmProduct.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmtype.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.frmuser.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.Resources.resources
+F:\Documents\CODE\School\SalesInventorySystem\SalesInventorySystem\obj\Debug\SalesInventorySystem.vbproj.GenerateResource.Cache
